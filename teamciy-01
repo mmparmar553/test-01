@@ -1,1 +1,3 @@
-echo "Hellp world" >/root/hello
+set -x
+echo "Hellp world" >/tmp/hello
+
